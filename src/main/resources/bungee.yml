@@ -1,0 +1,3 @@
+name: VipChat
+version: '${project.version}'
+main: ru.primer.mc.Main
